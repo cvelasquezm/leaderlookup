@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "message": "message",
+  "errorLogId": null,
+  "ManagerSummaries": [
+    {
+      "empId": 1234,
+      "empName": "Pepito Mock",
+      "empFirstName": "pepito",
+      "empLastName": "Mock"
+    }
+  ]
+}
